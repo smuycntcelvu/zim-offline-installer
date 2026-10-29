@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Note--Taking-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Wiki+Notebook-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Zim Free Installer** — Zim is a free, open-source desktop wiki application that stores notes and documents as plain text files. Works without internet access, no account required. Full offline installation.
+**💻 Zim Free Installer** — Zim is a free, open-source graphical text editor used as a personal wiki and notebook. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Zim
 
-Zim is a free, open-source desktop wiki application that stores notes and documents as plain text files. Organize information hierarchically with linked pages, tags, and rich formatting. Zim supports plugins for task management, equation editing, version control, and more. Its plain-text storage format ensures data portability and long-term accessibility without vendor lock-in.
+Zim is a free, open-source graphical text editor used as a personal wiki and notebook. Notes are stored as plain text files with wiki-style links, making them portable and version-control friendly. It supports plugins for additional features including a calendar and task list.
 
 ---
 
 ## ❌ Problem: Zim is hard to access
 
-- **Learning Curve** — Wiki-style organization requires adjustment for new users
-- **UI Dated** — Interface looks older compared to modern note-taking apps
-- **No Native Mobile App** — Mobile access requires third-party sync solutions
-- **Plugin Dependency** — Many useful features require manual plugin installation
+- **Dated Interface** — GTK-based UI looks dated on Windows and macOS
+- **Linux-Primary Feel** — Best native experience on Linux desktop environments
+- **Limited Mobile** — No official mobile app; only desktop-focused
+- **Plugin Required for Features** — Basic install is minimal; power features need plugin management
 
 ---
 
@@ -121,7 +121,7 @@ Zim is a free, open-source desktop wiki application that stores notes and docume
 
 ---
 
-**Zim Free Installer** — Zim is a free, open-source desktop wiki application that stores notes and documents as plain text files. Install without internet connection today!
+**Zim Free Installer** — Zim is a free, open-source graphical text editor used as a personal wiki and notebook. Install without internet connection today!
 
 <div align="center">
 
